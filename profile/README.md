@@ -7,7 +7,7 @@
 </p>
 <p align="center">
 <a href="" target="_blank">
-    <img src="https://img.shields.io/github/license/e-agle-solution/.github" alt="License"/>
+    <img src="https://img.shields.io/github/license/e-agle-platform/.github" alt="License"/>
 </a>
 </p>
 
