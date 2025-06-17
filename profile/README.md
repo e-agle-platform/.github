@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">E-AGLE</h1>
 <p align="center">
-<i><b>E-</b>mail <b>A</b>nalysis and <b>G</b>rading with <b>L</b>ikelihood of <b>E</b>xploitation</i><br/>
+<i><b>E-</b>mail <b>A</b>nalysis and <b>G</b>rading for <b>L</b>ikelihood of <b>E</b>xploitation</i><br/>
 </p>
 <p align="center">
 <a href="" target="_blank">
